@@ -6,7 +6,7 @@ Ce repository sert uniquement au suivi de tout mes projets d'apprentissage d'Ang
 
 ===========================================================================================================
 
-Rappel des commandes git bash pour faire unstatur=t des branches et de la synchronisation des PCs.
+Rappel des commandes git bash pour faire un statut des branches et de la synchronisation des PCs.
 
 
 git init : Initialise un dépôt Git local
